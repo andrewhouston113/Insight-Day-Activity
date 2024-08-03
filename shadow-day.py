@@ -9,7 +9,6 @@ df = pd.read_csv(url, names=names, header=8)
 
 # Step 2: Explore dataset
 print(df.head())  # Display first few rows of the dataset
-print(df.info())  # Display dataset information
 
 # Step 3: Data visualization
 plt.figure(figsize=(12, 6))
