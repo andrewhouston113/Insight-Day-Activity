@@ -23,7 +23,7 @@ To get the relevant files onto your computer, open the command line and enter th
 
 ```bash
 cd <FILE PATH OF WHERE YOU WANT THE REPOSITORY>
-git clone https://github.com/andrewhouston113/Shadowing-Day-Activity
+git clone https://github.com/andrewhouston113/Insight-Day-Activity
 ```
 
 ### Setting up your Environment
