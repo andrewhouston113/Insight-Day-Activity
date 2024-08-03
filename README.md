@@ -1,4 +1,4 @@
-# Barts Life Sciences Data Science Insight Day - Diabetes Prediction Project
+![splash](splash.png)
 
 ## Overview
 
