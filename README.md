@@ -2,9 +2,7 @@
 
 ## Overview
 
-Welcome to the Barts Life Sciences Data Science Insight Day repository! This repository contains a Python script designed to offer participants a hands-on experience with data science concepts, particularly in the healthcare domain. The script walks through various stages of a typical data science workflow, from data loading and exploration to visualization and predictive modeling.
-
-The script uses a diabetes dataset to illustrate key techniques and tools used by data scientists, including data visualization, basic statistical analysis, and a simple machine learning model.
+Welcome to the Barts Life Sciences Data Science Insight Day repository! This repository contains a Python script designed to offer participants a hands-on experience with data science concepts. The script walks through various stages of a typical data science workflow, from data loading and exploration to visualisation and predictive modeling
 
 ## Repository Contents
 
